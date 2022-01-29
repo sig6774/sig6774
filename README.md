@@ -9,5 +9,8 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fpdl6281@gmail.com)](mailto:fpdl6281@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sig6774&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sig6774&show_icons=true&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sig6774&layout=compact)](https://github.com/sig6774/github-readme-stats)
+
 
