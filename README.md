@@ -2,8 +2,8 @@
 ## Hello! I am Kyung Rok Moon who is interested in Data extraction method & Data Science from South Korea. 
 
 ### I am studying Python and Java, DataBase, Machine Learning. 
-#### I am interested in NLP and mixed analysis of structured and unstructured data. 
-##### Now I am studying Web development skill that java and spring, jsp, mysql.
+#### I am interested in natural language processing and mixed analysis of structured and unstructured data. 
+#### Now I am studying Web development skill that java and spring, jsp, mysql.
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsig6774%2Fsig6774&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%2323F63C&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
