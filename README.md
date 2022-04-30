@@ -5,10 +5,14 @@
 #### I am interested in natural language processing and mixed analysis of structured and unstructured data. 
 #### Now I am studying Web development skill that java and springMVC, jsp, SQL, HTML, CSS.
 
+<hr>
+
 ## Certification 
 ### ADSP (Advanced Data Analytic Professional)
 ### SQLD (Structured Query Language Developer)
 ### 사회조사분석사 2급
+
+<hr>
 
 ## Prize
 ### 최우수상 
