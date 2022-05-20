@@ -3,7 +3,7 @@
 ## I am Kyung Rok Moon from South Korea. 
 
 ### I am interested not only in Data Extraction Method & Data Science,
-but also natural language processing, and mixed analysis of structured and unstructured data.
+### but also natural language processing, and mixed analysis of structured and unstructured data.
 
 ### I used to study Python and Java, DataBase, Machine Learning, and is  currently studying Web development skills such as java and springMVC, jsp, SQL, HTML, CSS.
 
@@ -39,7 +39,6 @@ but also natural language processing, and mixed analysis of structured and unstr
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sig6774&show_icons=true&theme=merko)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=sig6774)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sig6774&layout=compact)](https://github.com/sig6774/github-readme-stats)
 
