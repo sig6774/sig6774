@@ -38,7 +38,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sig6774&show_icons=true&theme=merko)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=sig6774)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sig6774&layout=compact)](https://github.com/sig6774/github-readme-stats)
 
