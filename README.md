@@ -15,6 +15,7 @@
 ### ADSP (Advanced Data Analytic Professional)
 ### SQLD (Structured Query Language Developer)
 ### 사회조사분석사 2급
+### 정보처리기사 (Engineer Information Processing)
 
 <br>
 <hr>
