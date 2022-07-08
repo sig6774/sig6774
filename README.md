@@ -13,6 +13,7 @@
 
 ## Certification 
 ### 정보처리기사 (Engineer Information Processing)
+### 빅데이터분석기사 (Engineer Big Data Analysis)
 ### SQLD (Structured Query Language Developer)
 ### ADSP (Advanced Data Analytic Professional)
 ### 사회조사분석사 2급
