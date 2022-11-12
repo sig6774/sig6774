@@ -5,7 +5,7 @@
 ### I am interested not only in Data Extraction Method & Data Science,
 ### but also natural language processing, and mixed analysis of structured and unstructured data.
 
-### I used to study Python and Java, DataBase, Machine Learning, and is  currently studying Web development skills such as Java and Spring, JavaScript, jsp, Oracle, Mybatis, MySql, HTML, CSS.
+### I used to study Python and Java, DataBase, Machine Learning, Web development skills such as Java and Spring, JavaScript. 
 
 ## Thank you for visiting :) 
 <br>
