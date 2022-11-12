@@ -12,26 +12,26 @@
 <hr>
 
 ## Certification 
-### 정보처리기사 (Engineer Information Processing)
-### 빅데이터분석기사 (Engineer Big Data Analysis)
-### SQLD (Structured Query Language Developer)
-### ADSP (Advanced Data Analytic Professional)
-### 사회조사분석사 2급
+### - 정보처리기사 (Engineer Information Processing)
+### - 빅데이터분석기사 (Engineer Big Data Analysis)
+### - SQLD (Structured Query Language Developer)
+### - ADSP (Advanced Data Analytic Professional)
+### - 사회조사분석사 2급
 
 
 <br>
 <hr>
 
 ## Prize
-### 최우수상 
-#### 프로젝트명 : AI와 자연어처리를 활용한 아동재학대 선제 예방 서비스 
-##### 수여기관 : 한국산업인력공단
+### - 최우수상 
+#### - 프로젝트명 : AI와 자연어처리를 활용한 아동재학대 선제 예방 서비스 
+##### - 수여기관 : 한국산업인력공단
 
 <br>
 
-### 공로상 
-#### 프로젝트명 : AI와 자연어처리를 활용한 아동재학대 선제 예방 서비스 
-##### 수여기관 : 한국사회보장정보원
+### - 공로상 
+#### - 프로젝트명 : AI와 자연어처리를 활용한 아동재학대 선제 예방 서비스 
+##### - 수여기관 : 한국사회보장정보원
 <br>
 <hr>
 
