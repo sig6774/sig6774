@@ -5,7 +5,7 @@
 ### I am interested not only in Data Extraction Method & Data Science,
 ### but also natural language processing, and mixed analysis of structured and unstructured data.
 
-### I used to study Python and Java, DataBase, Machine Learning, Web development skills such as Java and Spring, JavaScript. 
+### I used to study Python and Java, AWS, Tigergraph, DataBase, Machine Learning, Web development skills such as Java and Spring, JavaScript. 
 
 ## Thank you for visiting :) 
 <br>
@@ -16,7 +16,7 @@
 ####  빅데이터분석기사 (Engineer Big Data Analysis)
 ####  SQLD (Structured Query Language Developer)
 ####  ADSP (Advanced Data Analytic Professional)
-
+####  AWS Certified Cloud Practitioner 
 
 <br>
 <hr>
