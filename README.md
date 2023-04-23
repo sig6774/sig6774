@@ -2,8 +2,7 @@
 # Warm Greetings!
 ## I am Kyung Rok Moon from South Korea. 
 
-### I am interested not only in Data Extraction Method & Data Science,
-### but also natural language processing, and mixed analysis of structured and unstructured data.
+### I am interested natural language processing, and mixed analysis of structured and unstructured data.
 
 ### I used to study Python and Java, AWS, Tigergraph, DataBase, Machine Learning, Web development skills such as Spring and JavaScript. 
 ### Now I'm in charge of Graph DB(TigerGraph, Neo4j, AWS Neptune) in my Role.
