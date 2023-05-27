@@ -18,7 +18,7 @@
 
   <br>
 
-  <img src="https://img.shields.io/badge/apachekafka-7952B3?style=for-the-badge&logo=apachekafka&logoColor=white">
+  <img src="https://img.shields.io/badge/apachekafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
   <img src="https://img.shields.io/badge/apacheairflow-7952B3?style=for-the-badge&logo=apacheairflow&logoColor=white">
   <img src="https://img.shields.io/badge/tensorflow-7952B3?style=for-the-badge&logo=tensorflow&logoColor=white">
   <img src="https://img.shields.io/badge/pytorch-7952B3?style=for-the-badge&logo=pytorch&logoColor=white">
