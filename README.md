@@ -14,14 +14,14 @@
   
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=neo4j&logoColor=black"> 
+  <img src="https://img.shields.io/badge/neo4j-61DAFB?style=for-the-badge&logo=neo4j&logoColor=black"> 
 
   <br>
 
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=apachekafka&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=apacheairflow&logoColor=white">
+  <img src="https://img.shields.io/badge/apachekafka-7952B3?style=for-the-badge&logo=apachekafka&logoColor=white">
+  <img src="https://img.shields.io/badge/apacheairflow-7952B3?style=for-the-badge&logo=apacheairflow&logoColor=white">
   <img src="https://img.shields.io/badge/tensorflow-7952B3?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/pytorch-7952B3?style=for-the-badge&logo=pytorch&logoColor=white">
 
   <br>
 
