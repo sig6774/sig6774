@@ -1,10 +1,9 @@
 
 # Thank you for visiting!!
-## I am Kyung Rok Moon from South Korea. 
 
-### I am interested Graph Database, natural language processing, and mixed analysis of structured and unstructured data.
+## I am interested Graph Database, natural language processing, and mixed analysis of structured and unstructured data.
 
-### I used to study Python and Java, AWS, Tigergraph, DataBase, Machine Learning, Web development skills such as Spring and JavaScript. 
+### My tech stack is python and Java, AWS, Tigergraph, SQL, Machine Learning, Web development skills such as Spring and JavaScript. 
 ### Now I'm in charge of Graph DB(TigerGraph, Neo4j, AWS Neptune) in my Role.
 
 ## Thank you for visiting :) 
