@@ -1,9 +1,9 @@
 
 # Thank you for visiting!!
 
-## I am interested Graph Database, natural language processing, and mixed analysis of structured and unstructured data.
-
-### My tech stack is python and Java, AWS, Tigergraph, SQL, Machine Learning, Web development skills such as Spring and JavaScript. 
+## I am interested in ETL Pipeline, Natural Language Processing, Graph Database and Mixed Analysis of Structured and Unstructured Data.
+### My tech stack is Python and Java, AWS(Data Engineering), Kafka, SQL, Tigergraph,  Machine Learning, Airflow.
+#### I have built a website using Spring and Javascript.
 ### Now I'm in charge of Graph DB(TigerGraph, Neo4j, AWS Neptune) in my Role.
 
 ## Thank you for visiting :) 
