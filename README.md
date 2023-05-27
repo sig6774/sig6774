@@ -2,7 +2,7 @@
 # Thank you for visiting!!
 
 ## I am interested in ETL Pipeline, Natural Language Processing, Graph Database.
-### My goal is to become a person who can do the whole process from data collection to analysis.
+## My goal is to become a person who can do the whole process from data collection to analysis.
 ## Thank you for visiting :) 
 <hr>
 
