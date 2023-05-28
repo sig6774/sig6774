@@ -50,7 +50,6 @@
 ####  빅데이터분석기사 (Engineer Big Data Analysis)
 ####  SQLD (Structured Query Language Developer)
 ####  ADSP (Advanced Data Analytic Professional)
-####  AWS Certified Cloud Practitioner 
 
 <br>
 <hr>
