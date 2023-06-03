@@ -55,14 +55,14 @@
 <hr>
 
 ## Prize
-###  최우수상 
-####  프로젝트명 : AI와 자연어처리를 활용한 아동재학대 선제 예방 서비스 
+###  Grand prize  
+####  Project : Preemptive Prevention Service for Child Abuse Using AI and Natural Language Processing
 #####  수여기관 : 한국산업인력공단
 
 <br>
 
-###  공로상 
-####  프로젝트명 : AI와 자연어처리를 활용한 아동재학대 선제 예방 서비스 
+###  Achievement prize 
+####  Project : Preemptive Prevention Service for Child Abuse Using AI and Natural Language Processing
 #####  수여기관 : 한국사회보장정보원
 <br>
 <hr>
