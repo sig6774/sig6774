@@ -45,30 +45,6 @@ Thank you for visiting 😃😃
 <br>
 <hr>
 
-## Certification 
-####  정보처리기사 (Engineer Information Processing)
-####  빅데이터분석기사 (Engineer Big Data Analysis)
-####  SQLD (Structured Query Language Developer)
-####  ADSP (Advanced Data Analytic Professional)
-
-<br>
-<hr>
-
-## Prize
-###  Grand prize  
-####  Project : Preemptive Prevention Service for Child Abuse Using AI and Natural Language Processing
-#####  수여기관 : 한국산업인력공단
-
-<br>
-
-###  Achievement prize 
-####  Project : Preemptive Prevention Service for Child Abuse Using AI and Natural Language Processing
-#####  수여기관 : 한국사회보장정보원
-<br>
-<hr>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsig6774%2Fsig6774&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%2323F63C&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fpdl6281@gmail.com)](mailto:fpdl6281@gmail.com)
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sig6774&show_icons=true&theme=merko)
 
